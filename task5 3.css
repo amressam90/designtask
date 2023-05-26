@@ -1,0 +1,33 @@
+*{
+   font-family: cursive; 
+}
+
+nav h1{
+font-size: 24px;
+margin-left: 300px;
+}
+
+.mor1{
+display: flex;
+justify-content: center;
+align-items: center;
+position: relative;
+top: -20px;
+}
+
+.mor1 div{
+margin: 50px;
+
+}
+
+.mor2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+position: relative;
+top: -110px;    
+}
+
+.mor2 div{
+    margin: 50px;
+}
